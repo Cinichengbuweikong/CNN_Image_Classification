@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+.idea
+.ipynb_checkpoints
+__pycache__
+etc
+Lib
+Scripts
+share
